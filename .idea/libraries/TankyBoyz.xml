@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TankyBoyz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/TankyBoyz_jar/TankyBoyz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
